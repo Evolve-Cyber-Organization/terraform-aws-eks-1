@@ -1,2 +1,2 @@
 # terraform-aws-eks
-Required terraform version: 0.12.23
+# Required terraform version: 0.12.23
